@@ -6,6 +6,7 @@ JavaScript often abbreviated as JS, is a high-level, interpreted scripting langu
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> MDN JavaScript</a></li>
   <li><a href="https://www.w3schools.com/js/">W3schools JS</a></li>
   <li><a href="https://github.com/HackTechGO/You-Dont-Know-JS">You Don't Know Javascript</a></li>
+   <li><a href="https://bestofjs.org/">The best of JavaScript, HTML and CSS </a></li>
   <li><a href="https://github.com/HackTechGO/fundamentals">JS Fundamentals</a></li>
   <li><a href="https://patatap.com/">Have Fun with JS: Patatap</a></li>
    <li>MUST Articles and Videos</li> 
