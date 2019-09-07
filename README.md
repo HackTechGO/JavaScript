@@ -8,8 +8,8 @@ JavaScript often abbreviated as JS, is a high-level, interpreted scripting langu
   <li><a href="https://github.com/HackTechGO/You-Dont-Know-JS">You Don't Know Javascript</a></li>
   <li><a href="https://github.com/HackTechGO/fundamentals">JS Fundamentals</a></li>
   <li><a href="https://patatap.com/">Have Fun with JS: Patatap</a></li>
-    <ul> 
-     <li><a href="https://www.youtube.com/watch?v=y3itGTCseAk">Nodes Versus Elements in the DOM (Recommend to get subscribed to his channel)</a></li>
+    <ul> MUST
+     <li><a href="https://www.youtube.com/watch?v=y3itGTCseAk">Nodes Versus Elements in the DOM (Recommend to get subscribed to his channel as well)</a></li>
     <li><a href="https://www.bitdegree.org/learn/nodelist#nodelist-main-tips">NodeList vs. HTMLCollection</a></li>
     <li><a href="https://www.nikpro.com.au/javascript-nodelist-and-html-dom-collection-and-how-to-use-them/">Javascript NodeList and HTML DOM collection and how to use them </a></li>
   </ul>
