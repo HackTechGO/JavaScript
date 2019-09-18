@@ -12,7 +12,7 @@ JavaScript often abbreviated as JS, is a high-level, interpreted scripting langu
       <li><a href="https://www.nikpro.com.au/javascript-nodelist-and-html-dom-collection-and-how-to-use-them/">Javascript NodeList and HTML DOM collection and how to use them </a></li>
    </ul>
       
-     <li><a href="https://www.youtube.com/watch?v=y3itGTCseAk">Nodes Versus Elements in the DOM</a> (Recommend to get subscribed to his channel as well)</li>
+     <li><a href="https://www.youtube.com/watch?v=y3itGTCseAk">Nodes Versus Elements in the DOM </a> (Recommend to get subscribed to his channel as well)</li>
 
 </ul>
   
