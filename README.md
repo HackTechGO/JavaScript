@@ -10,8 +10,7 @@ JavaScript often abbreviated as JS, is a high-level, interpreted scripting langu
             <li><a href="https://www.evernote.com/shard/s386/u/0/sh/38a3284e-0dd5-43f9-850e-e00b11da8265/33c60d4efb1e7ec24b4eada875982ae0">Function expressions vs. function declarations</a></li>
             <li><a href="https://www.bitdegree.org/learn/nodelist#nodelist-main-tips">NodeList vs. HTMLCollection</a></li>
             <li><a href="https://www.nikpro.com.au/javascript-nodelist-and-html-dom-collection-and-how-to-use-them/">Javascript NodeList and HTML DOM collection and how to use them </a></li>
-             <li><a href="https://www.evernote.com/shard/s386/u/0/sh/af2449fc-c9de-4334-9328-f5c215ea93ba/fee416e4cf8f9f6e13f8427973eedbda">JavaScript: What the heck is a Callback? </a></li>
-
+             <li><a href="https://www.evernote.com/shard/s386/u/0/sh/af2449fc-c9de-4334-9328-f5c215ea93ba/fee416e4cf8f9f6e13f8427973eedbda"> JavaScript: What the heck is a Callback? </a></li>
       </ul>
       <li><a href="https://www.youtube.com/watch?v=y3itGTCseAk">Nodes Versus Elements in the DOM </a> (Recommend to get subscribed to his channel as well)</li>
 
