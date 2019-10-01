@@ -1,7 +1,7 @@
 # JavaScript (JS)
 JavaScript often abbreviated as JS, is a high-level, interpreted scripting language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.  Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications.
 
-# MUST: https://www.evernote.com/shard/s386/u/0/sh/679872e6-9ee1-4d49-9029-b57f7749fcd5/0bdd9f06f48635a3130a5c9d07779bd1
+# MUST:
 <ul>
       <li>Book: <a href="https://github.com/HackTechGO/You-Dont-Know-JS">You Don't Know Javascript</a></li>
       <li><a href="https://github.com/HackTechGO/fundamentals">JS Fundamentals</a></li>
