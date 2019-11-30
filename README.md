@@ -24,3 +24,10 @@ JavaScript often abbreviated as JS, is a high-level, interpreted scripting langu
       <li><a href="https://bestofjs.org/">The best of JavaScript, HTML and CSS </a></li>
       <li>What you can do with JS: <a href="https://patatap.com/">Patatap</a></li>
 </ul>
+
+# Advanced Javascript
+<ul>
+   <li><a href="https://www.evernote.com/shard/s386/u/0/sh/83488e7b-cf55-43f3-8403-0e48cdb776e6/66773698f685b6f3b34cba22060b0b1e">10 Interview Questions Every JavaScript Developer Should Know</a></li>
+  <li><a href="https://www.evernote.com/shard/s386/u/0/sh/d23da4c1-53c3-401b-93c4-fb5625473ba2/c11feb54c43a2bed7f2e2febf00aaff0">Master the Javascript Interview</a></li>
+  <li><a href=""></a></li>
+</ul>
